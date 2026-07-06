@@ -1,11 +1,11 @@
 # stall-pos-app
 
-# 🍡 Mishti Stall Point of Sale (POS)
+#  Mishti Stall Point of Sale (POS)
 
 React Native and Expo were used to create a mobile-first Point of Sale application that was created especially for a Bangladeshi sweet stall (my parents). It handles temperature-sensitive merchandise, keeps track of inventories, and computes revenue in real time.
 
 
-## ✨ Features
+## Features
 *Revenue Tracking: This feature computes the total sales for a shift in real time.
 Sort things according to categories (Syrup, Fried, Dry, Boxes) using dynamic inventory filtering.* ** Alerts for Temperature Control:** Highlights dairy products that need to be stored in a cooler environment, such as Rasgulla and Mishti Doi, with a special "❄️" "Cooler" sorting tab.
 To avoid double-charging or missing purchases, a running stream of the most recent transactions is displayed in the "Live Activity Log."
